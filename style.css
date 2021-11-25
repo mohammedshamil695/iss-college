@@ -251,7 +251,12 @@ h3{
     padding: 0;
 }
 /*---- footer ----*/
-
+.call{
+    border-style: solid;
+    border-width: medium;
+    border-radius: 10px;
+    border-color: rgb(112, 35, 35);
+}
 .footer{
     width: 100%;
     text-align: center;
